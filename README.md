@@ -1,6 +1,6 @@
-## Hi there, I' Saquib
+## Hi there, I'm Saquib
 
-- Currently working with `java`
+- Currently working with `java` and `node.js`
 - Playing around with `rust`
 - Interested in: Backend, algorithms, cloud
 
