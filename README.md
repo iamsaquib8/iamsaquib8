@@ -2,7 +2,6 @@
 
 Backend-focused Software Engineer with Reliability/SRE experience. I enjoy building and operating scalable services, improving system performance, and working on distributed systems.
 
-**Location:** Noida, India  
 **Focus areas:** Distributed systems • Reliability engineering • Observability • Performance
 
 ---
