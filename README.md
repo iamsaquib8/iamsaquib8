@@ -18,8 +18,8 @@ Backend-focused Software Engineer with Reliability/SRE experience. I enjoy build
 ## GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=iamsaquib8&show_icons=true&locale=en&theme=tokyonight" alt="iamsaquib8" height="150" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamsaquib8&layout=compact&theme=tokyonight" alt="iamsaquib8" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iamsaquib8&show_icons=true&locale=en&theme=swift" alt="iamsaquib8" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iamsaquib8&layout=compact&theme=swift" alt="iamsaquib8" height="150" />
 </p>
 
 ---
