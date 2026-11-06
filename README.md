@@ -2,21 +2,24 @@
 
 **Senior Backend Engineer** at [BrowserStack](https://www.browserstack.com). 8+ years building distributed systems, data platforms, and reliability tooling — high-throughput services, measurable production wins, and end-to-end operational ownership.
 
-Lately I write Rust tools that make AI coding agents and developers faster: code graphs, HTML parsing, terminal finance.
+Lately I write Rust tools that make AI coding agents and developers faster: HTML parsing, terminal finance, semantic code graphs.
+
+🌏 Open to Senior / Staff Backend & Platform roles (**Tokyo, Japan** · **Amsterdam, Europe** · **Bangkok / Singapore** · **Hyderabad Tier-1 Tech**).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamsaquib8-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsaquib8/)
 [![X](https://img.shields.io/badge/X-@iamsaquib15-000000?logo=x&logoColor=white)](https://twitter.com/iamsaquib15)
+[![Crates.io](https://img.shields.io/badge/crates.io-iamsaquib8-DEA584?logo=rust&logoColor=white)](https://crates.io/users/iamsaquib8)
 [![Email](https://img.shields.io/badge/Email-saquibulhassan6%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:saquibulhassan6@gmail.com)
 
 ## Open source I'm building
 
 | Project | What it does | Get it |
 | --- | --- | --- |
-| **[Tessera](https://github.com/iamsaquib8/tessera)** [![stars](https://img.shields.io/github/stars/iamsaquib8/tessera?style=flat&label=%E2%98%85)](https://github.com/iamsaquib8/tessera/stargazers) | *Your agent says done. Tessera checks.* Local, deterministic semantic code graph and MCP server for AI coding agents: blast radius before an edit, verification after it. Rust + Tree-sitter + SQLite, 12 languages, no LLM, PR checks via GitHub Action. | [crates.io](https://crates.io/crates/tessera-codegraph) · [quick start](https://github.com/iamsaquib8/tessera#quick-start) |
 | **[domq](https://github.com/iamsaquib8/domq)** [![stars](https://img.shields.io/github/stars/iamsaquib8/domq?style=flat&label=%E2%98%85)](https://github.com/iamsaquib8/domq/stargazers) | Tiny, zero-dependency, never-panicking HTML parser with CSS selectors. HTML to Markdown/text/JSON, reader mode, RAG chunks, and an htmlq-compatible CLI with a linter. | [crates.io](https://crates.io/crates/domq) · [npm (41 KB WASM)](https://www.npmjs.com/package/domq-wasm) · [playground](https://iamsaquib8.github.io/domq/) |
-| **[stockwise](https://github.com/iamsaquib8/stockwise)** [![stars](https://img.shields.io/github/stars/iamsaquib8/stockwise?style=flat&label=%E2%98%85)](https://github.com/iamsaquib8/stockwise/stargazers) | Stock market toolkit for the terminal, NSE/BSE + US. Quotes, charts, screeners, backtests, SIP/XIRR, paper trading, portfolio and tax. One binary, no API keys. | [repo](https://github.com/iamsaquib8/stockwise) |
+| **[stockwise](https://github.com/iamsaquib8/stockwise)** [![stars](https://img.shields.io/github/stars/iamsaquib8/stockwise?style=flat&label=%E2%98%85)](https://github.com/iamsaquib8/stockwise/stargazers) | Stock market toolkit for the terminal, NSE/BSE + US. Quotes, charts, screeners, backtests, SIP/XIRR, paper trading, portfolio and tax. One binary, no API keys. | [crates.io](https://crates.io/crates/stockwise) · [docs](https://iamsaquib8.github.io/stockwise/) · [releases](https://github.com/iamsaquib8/stockwise/releases) |
+| **[Tessera](https://github.com/iamsaquib8/tessera)** [![stars](https://img.shields.io/github/stars/iamsaquib8/tessera?style=flat&label=%E2%98%85)](https://github.com/iamsaquib8/tessera/stargazers) | *Your agent says done. Tessera checks.* Local, deterministic semantic code graph and MCP server for AI coding agents: blast radius before an edit, verification after it. Rust + Tree-sitter + SQLite, 12 languages, no LLM, PR checks via GitHub Action. | [crates.io](https://crates.io/crates/tessera-codegraph) · [docs](https://iamsaquib8.github.io/tessera/) · [quick start](https://github.com/iamsaquib8/tessera#quick-start) |
 
-Also: [one-piece-odyssey](https://github.com/iamsaquib8/one-piece-odyssey) (animated One Piece fan explorer, for fun) · contributor to [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
+Also: [one-piece-odyssey](https://github.com/iamsaquib8/one-piece-odyssey) (animated One Piece fan explorer, for fun) · contributor to [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) (fast Rust linter)
 
 ## Production impact
 
